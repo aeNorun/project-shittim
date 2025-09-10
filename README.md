@@ -4,7 +4,7 @@ Sometime in the future I also want to make an Arona-voiced local AI.
 
 ## Softwares
 ### 1. Home Assistant
-This is kinda the main reason I want to make this. I use Home Assistant OS that i run on my [HP mini PC](https://github.com/aeNorun/project-shittim/edit/main/README.md#1-hp-elitedesk-800-g3-tiny).
+This is kinda the main reason I want to make this. I use Home Assistant OS that i run on my [HP mini PC](https://github.com/aeNorun/project-shittim?tab=readme-ov-file#1-hp-elitedesk-800-g3-tiny).
 
 ## Hardwares
 ### 1. HP Elitedesk 800 G3 Tiny
