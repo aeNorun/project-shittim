@@ -1,9 +1,16 @@
-# project-arona
-This is just my documentation of my homelab "Arona" where I make an Arona-voiced home assistant and server.
+# project-shittim
+This is just my documentation of my homelab "Shittim" where I make an Arona-voiced home assistant and NAS.
 Sometime in the future I also want to make an Arona-voiced local AI.
 
+## Softwares
+### 1. Home Assistant
+This is kinda the main reason I want to make this. I use Home Assistant OS that i run on my [HP mini PC](https://github.com/aeNorun/project-shittim/edit/main/README.md#1-hp-elitedesk-800-g3-tiny).
+
 ## Hardwares
-### 1. Lenovo Thinkcentre m700 Tower 
+### 1. HP Elitedesk 800 G3 Tiny
+
+
+### 2. Lenovo Thinkcentre m700 Tower 
 I bought this from Facebook Marketplace for Rp. 650.000 or about 40 USD. I also upgrade the RAM to 8gb for Rp. 193.000 or about 12 USD
 
 Specification:
@@ -18,7 +25,6 @@ Notes:
 ```
 
 ```
-### 2. Networking
+### 3. Networking
 
-## Softwares
-### 1. Proxmox
+
