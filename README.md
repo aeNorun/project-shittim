@@ -26,5 +26,5 @@ Notes:
 
 ```
 ### 3. Networking
-
+For the cabling and networking I use **cat5e cable** and **Tapo TP-Link LS1008** for the switch.
 
