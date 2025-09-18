@@ -9,6 +9,10 @@ This is kinda the main reason I want to make this. I use Home Assistant OS that 
 ## Hardwares
 ### 1. HP Elitedesk 800 G3 Tiny
 
+Specification: 
+```
+
+```
 
 ### 2. Lenovo Thinkcentre m700 Tower 
 I bought this from Facebook Marketplace for Rp. 650.000 or about 40 USD. I also upgrade the RAM to 8gb for Rp. 193.000 or about 12 USD
