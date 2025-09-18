@@ -11,8 +11,17 @@ This is kinda the main reason I want to make this. I use Home Assistant OS that 
 
 Specification: 
 ```
-
+CPU Intel Core i3 6100
+GPU Intel® HD Graphics 530 (integrated with cpu)
+RAM 4gb DDR4 2133MHz
+Storage SSD 150gb
 ```
+#### Notes:
+There is 2 types of this mini pc, there is a 65W one and 35W one (What I have is the 35W version)
+
+The issue with the 35W one is it doesn't come with a hhdfan
+
+
 
 ### 2. Lenovo Thinkcentre m700 Tower 
 I bought this from Facebook Marketplace for Rp. 650.000 or about 40 USD. I also upgrade the RAM to 8gb for Rp. 193.000 or about 12 USD
