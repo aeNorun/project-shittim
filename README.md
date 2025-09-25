@@ -7,7 +7,7 @@ Sometime in the future I also want to make an Arona-voiced local AI.
 This is kinda the main reason I want to make this. I use Home Assistant OS that i run on my [HP 800 G3 Mini PC](https://github.com/aeNorun/project-shittim?tab=readme-ov-file#1-hp-elitedesk-800-g3-tiny).
 
 I use [whisper](https://www.home-assistant.io/integrations/whisper/) and [openwakeword](https://www.home-assistant.io/voice_control/create_wake_word/) for the voice assistant.
-I install samba for transfering voice lines audio from my personal desktop to the machine that runs the home assistant os.
+I install [samba](https://www.home-assistant.io/common-tasks/os/#installing-and-using-the-samba-add-on) for transfering voice lines audio from my personal desktop to the machine that runs the home assistant os.
 
 
 ## Hardwares
