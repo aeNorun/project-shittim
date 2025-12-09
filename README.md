@@ -1,6 +1,6 @@
 # project-shittim
 This is just my documentation of my homelab "Shittim" where I make an Arona-voiced home assistant and NAS.
-Sometime in the future I also want to make an Arona-voiced local AI.
+Sometime in the future I also want to make an Arona-voiced local AI (not really cause i have no money) kek. 
 
 ## Softwares
 ### 1. Home Assistant
