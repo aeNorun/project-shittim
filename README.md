@@ -26,22 +26,6 @@ There is 2 types of this mini pc, there is a 65W one and 35W one (What I have is
 The issue with the 35W one is it doesn't come with a hhdfan
 
 
-
-### 2. Lenovo Thinkcentre m700 Tower 
-I bought this from Facebook Marketplace for Rp. 650.000 or about 40 USD. I also upgrade the RAM to 8gb for Rp. 193.000 or about 12 USD
-
-Specification:
-```
-CPU Intel Core i3 6100
-    2 Cores, 4 Threads
-GPU Intel® HD Graphics 530 (integrated with cpu)
-RAM 8gb DDR4 2666MHz (bottlenecked by cpu becomes 2133MHz)
-Storage HDD 500gb 
-```
-Notes: 
-```
-
-```
-### 3. Networking
+### 2. Networking
 For the cabling and networking I use **cat5e cable** and **Tapo TP-Link LS1008** for the switch.
 
