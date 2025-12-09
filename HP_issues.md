@@ -10,4 +10,4 @@ In spite of not having a hdd fan from the factory, weirdly everytime I boot this
 
 
 ### Solution
-THe solution is simply short the 2 pins to trick the bios firmware into thinking that theres a fan connected in the hddfan slot.
+THe solution is simply short the 2 pins to trick the bios firmware into thinking that theres a fan connected in the hddfan slot. Make sure the shorting solution to not touch the other cables. It will not work. 
