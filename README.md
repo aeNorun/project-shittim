@@ -16,7 +16,7 @@ I install [samba](https://www.home-assistant.io/common-tasks/os/#installing-and-
 Specification: 
 ```
 CPU Intel Core i3 6100
-GPU Intel® HD Graphics 530 (integrated with cpu)
+GPU Intel® HD Graphics 530 (integrated)
 RAM 4gb DDR4 2133MHz
 Storage SSD 150gb
 ```
