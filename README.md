@@ -23,9 +23,8 @@ Storage SSD 150gb
 #### Notes:
 There is 2 types of this mini pc, there is a 65W one and 35W one (What I have is the 35W version)
 
-The issue with the 35W one is it doesn't come with a hhdfan
-
+The issue with the 35W one is it doesn't come with a hhdfan. Weirdlyttge bios still require the fan to be connected to run a clean boot. The solution
 
 ### 2. Networking
-For the cabling and networking I use **cat5e cable** and **Tapo TP-Link LS1008** for the switch.
+For the cabling and networking I use **cat5e cable**  which give me 1gbps speed connection and **Tapo TP-Link LS1008** for the switch.
 
